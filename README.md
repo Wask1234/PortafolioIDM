@@ -37,6 +37,3 @@ Estos parámetros permiten identificar las trayectorias de dispersión de los co
 - Se identificó un **corredor de dispersión de NO₂** originado en San Nicolás, que se extiende hacia **San Pedro** y **Apodaca**, impulsado principalmente por vientos predominantes y actividad vehicular.
 - Se detectó una **zona de alta concentración de SO₂** en la región poniente, específicamente **cerca de las Mitras**, relacionada posiblemente con fuentes industriales locales.
 - Las gráficas polares evidenciaron **zonas de acumulación y dispersión** específicas para cada contaminante, variando según la estación de monitoreo.
-
-## 📂 Estructura del Proyecto
-
