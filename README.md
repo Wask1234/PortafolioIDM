@@ -1,5 +1,5 @@
 # PortafolioIDM
-Repositorio de portafolio 
+Repositorio de portafolio y descripciones de cada proyecto.
 
 ## 1. Análisis Multivariado de Calidad del Aire
 <h1 align = "center">
